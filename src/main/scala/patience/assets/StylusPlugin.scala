@@ -2,7 +2,7 @@ package patience.assets
 
 import sbt._
 import sbt.Keys._
-import play.{Project => PlayProject}
+import play.{Play => PlayProject}
 
 object StylusPlugin extends Plugin {
 
